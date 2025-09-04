@@ -23,6 +23,13 @@ All notebooks are created using *Jupyter Notebook* to help you learn step by ste
 - Python 🐍  
 - [Matplotlib](https://matplotlib.org/)  
 - [Seaborn](https://seaborn.pydata.org/)  
-- [NumPy](https://numpy.org/)  
-- [Pandas](https://pandas.pydata.org/)  
 - [Jupyter Notebook](https://jupyter.org/)
+
+## 📬 Contact  
+
+If you have any questions, suggestions, or feedback, feel free to reach out:  
+
+- *Name*: Prachi Paliwal
+- *GitHub*: [Prachi005748](https://github.com/Prachi005748)  
+- *LinkedIn*: [Prachi Paliwal](https://www.linkedin.com/in/prachi-paliwal-799126268/)  
+
